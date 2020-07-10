@@ -7,5 +7,9 @@ Function1()
 Function2()
 	{
 		//added function2 block
+Function3()
+	{
+		//added function3 block	
+
 	}
 }
